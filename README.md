@@ -1,4 +1,5 @@
 Agrikol:https://ashikahmedrabbi.github.io/agrikol/home.html
+
 Agrikol is your comprehensive resource for modern farming techniques. We provide guides, crop details, and pest control strategies to help farmers achieve the best results. With expert insights, our platform supports sustainable and efficient farming practices.
 
 Features
