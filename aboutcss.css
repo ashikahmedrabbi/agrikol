@@ -1,0 +1,88 @@
+/* Section Styling */
+.about-us {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+
+/* Section Title */
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #007bff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Image Styling */
+.about-us-img img {
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* About Description */
+.about-description {
+    font-size: 1.1rem;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Our Values */
+.about-us-values {
+    margin-top: 30px;
+}
+
+.value-box {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.value-box:hover {
+    transform: translateY(-10px);
+}
+
+.value-box i {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.value-box h4 {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Team Section */
+.team-member {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.team-member:hover {
+    transform: translateY(-10px);
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.team-member h4 {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.team-member p {
+    color: #777;
+    font-size: 1rem;
+}
